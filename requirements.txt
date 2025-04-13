@@ -1,0 +1,6 @@
+elevenlabs
+python-dotenv
+deepgram-sdk
+langchain
+langchain-openai 
+streamlit
